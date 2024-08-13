@@ -68,7 +68,5 @@ The cloudtrailparser function will process incoming logs and route them to appro
 The firewall_changes_parser and consolelogin_parser will process logs and store necessary details in DynamoDB.
 The firewall_alert_parser will generate tickets based on the events captured in DynamoDB.
 Contributing
-Feel free to submit issues, fork the repository, and send pull requests. Contributions are welcome!
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+Feel free to submit issues, fork the repository, and send pull requests. 
+Contributions are welcome!
